@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<title>Vector-svg-svg</title>
+	<defs>
+		<image  width="6" height="5" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFBAMAAACUdoDVAAAAAXNSR0IB2cksfwAAACRQTFRF/z0A/z0A/z0A/z0A/z0A/z0A/z0A/z0A/z0A/z0A/z0A/z0AnSQf5QAAAAx0Uk5TEJ/vsFD/fwBPX6DwvaIPWAAAABxJREFUeJxjYFQSYDByUWYIK09lMOpUZuDavQAAH2QEQqkurBMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff3d00 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M11 22C10.77 22 10.54 21.93 10.36 21.83C9.95 21.52 0 14.44 0 8.25C0 3.61 4.81 0 11 0C17.19 0 22 3.61 22 8.25C22 14.44 12.05 21.52 11.64 21.83C11.46 21.93 11.23 22 11 22ZM11 1.38C5.87 1.38 1.83 4.4 1.83 8.25C1.83 12.99 8.85 18.7 11 20.35C13.15 18.7 20.17 12.99 20.17 8.25C20.17 4.4 16.13 1.38 11 1.38Z" />
+	<use id="Background" href="#img1" x="8" y="8" />
+</svg>
